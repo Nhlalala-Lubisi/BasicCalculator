@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 /**
- * BasicCalculator
+ * Basic Calculator
  * Nhlaks
  */
 public class Main {

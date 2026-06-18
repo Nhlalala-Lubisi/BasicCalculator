@@ -1,5 +1,5 @@
 /**
- * BasicCalculator
+ * Basic Calculator
  * Nhlaks
  */
 public class Calculator {

@@ -27,7 +27,7 @@ public class Main {
                 choice = scanner.nextInt();
             } catch (InputMismatchException e) {
                 System.out.println("Invalid input. Please enter a number between 1 and 5.");
-                scanner.nextLine(); // clear the buffer
+                scanner.nextLine(); // Clear the buffer
                 continue;
             }
 
